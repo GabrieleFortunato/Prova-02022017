@@ -33,7 +33,6 @@ public class Zona implements Comparable<Zona>{
 	 * Confronta con un altra zona in base al codice numerico
 	 */
 	public int compareTo(Zona z) {
-		// TODO Auto-generated method stub
 		if (this.codice<z.getCodice()){
 			return -1;
 		} else if (this.codice>z.getCodice()){
