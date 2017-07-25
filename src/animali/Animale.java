@@ -12,6 +12,7 @@ public abstract class Animale {
 
 	/**
 	 * Metodo costruttore
+	 * 
 	 * @param nome
 	 * @param dataNascita
 	 * @param numeroZampe
