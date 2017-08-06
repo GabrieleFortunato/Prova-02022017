@@ -19,7 +19,7 @@ public class Zoo implements Iterable<Zona>{
 	private String indirizzo;
 	@SuppressWarnings("unused")
 	private String città;
-	private TreeMap<Zona,HashSet<Animale>> zo;
+	private TreeMap<Zona,HashSet<Animale>> zoo;
 	
 	/**
 	 * Metodo costruttore
